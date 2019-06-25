@@ -87,7 +87,7 @@ def escaleraMasLargaAux(ld, verbose):
     if verbose:
         print('------------------------------------------------')
         print('in:')
-        print(x)
+        print(ld)
         print('izq:')
         print(izq)
         print('der:')
